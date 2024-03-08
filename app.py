@@ -15,7 +15,7 @@ PAGE_TITLE = "Digital CV | Arpit Patel"
 PAGE_ICON = ":wave:"
 NAME = "Arpit Patel"
 DESCRIPTION = """
-Information Technology Student at SoS in E&T, Guru Ghasidas University, Bilaspur.
+Information Technology Student at Institute of Technology, Guru Ghasidas University, Bilaspur.
 """
 EMAIL = "arpitaa9918@gmail.com"
 SOCIAL_MEDIA = {
@@ -34,7 +34,7 @@ PROJECTS = {
 
 st.set_page_config(page_title=PAGE_TITLE,page_icon=PAGE_ICON)
 
-st.title("Hello there!")
+st.title("Hello there! It's")
 
 
 
