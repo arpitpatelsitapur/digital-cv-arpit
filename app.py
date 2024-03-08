@@ -98,7 +98,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Backend Devloper | Presear Software Pvt Limited**")
+st.write("🚧", "**Backend Devloper Intern| Presear Software Pvt Limited**")
 st.write("06/2023 - Present")
 st.write(
     """
